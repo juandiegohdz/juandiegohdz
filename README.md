@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Juan Diego Hernández Becerril. 
+# Juan Diego Hernández Becerril. 
 Estudiante de tercer semestre de la carrera de CC.
 
 ## Lo que me gustará aprender
