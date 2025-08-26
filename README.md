@@ -1,19 +1,17 @@
-# ¡Hola! 👋 Soy Juan Diego
+# ¡Hola! 👋 Soy Juan Diego Hernández Becerril. 
+Estudiante de tercer semestre de la carrera de CC.
 
-## Sobre mí
-- Estudiante / Desarrollador / Entusiasta de la tecnología.
-- Me interesa aprender Git, GitHub y desarrollo de software.
-
-## Lo que estoy aprendiendo
-- Git y GitHub
-- Java / Python
-- Desarrollo de proyectos personales
+## Lo que me gustará aprender
+- Dominar el GitHub
+- Tener mejores practicas de programación (código limpio)
+- Aprender a balancear árboles
+- Aplicaciones web
 
 ## Proyectos
-- Repositorios de práctica y ejercicios de GitHub Classroom
-- Mini proyectos personales que voy subiendo a GitHub
+-Hago practicas extras y leo libros sobre progrmación, para poder complementar los conocimientos de la carrera.
+-Estoy interesado en unirme a proyectos de Hacking
 
-## Mis hobbies
-- Leer libros de ciencia y tecnología
+## Mis hobbies favoritos
 - Hacer ejercicio
-- Juegos de estrategia
+- Jugar videojuegos
+- Dibujo realista
