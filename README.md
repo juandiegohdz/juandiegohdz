@@ -17,7 +17,3 @@
 - Leer libros de ciencia y tecnología
 - Hacer ejercicio
 - Juegos de estrategia
-
-## Contáctame
-- Email: tu_email@example.com
-- Twitter / LinkedIn / otras redes (opcional)
