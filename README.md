@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Juan Diego
 
-<!--
-**juandiegohdz/juandiegohdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- Estudiante / Desarrollador / Entusiasta de la tecnología.
+- Me interesa aprender Git, GitHub y desarrollo de software.
 
-Here are some ideas to get you started:
+## Lo que estoy aprendiendo
+- Git y GitHub
+- Java / Python
+- Desarrollo de proyectos personales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- Repositorios de práctica y ejercicios de GitHub Classroom
+- Mini proyectos personales que voy subiendo a GitHub
+
+## Mis hobbies
+- Leer libros de ciencia y tecnología
+- Hacer ejercicio
+- Juegos de estrategia
+
+## Contáctame
+- Email: tu_email@example.com
+- Twitter / LinkedIn / otras redes (opcional)
